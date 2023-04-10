@@ -1,0 +1,15 @@
+C:\Users\mrmus\ejercicios\loop_while_1\bin\Debug\net7.0\loop_while_1.exe
+C:\Users\mrmus\ejercicios\loop_while_1\bin\Debug\net7.0\loop_while_1.deps.json
+C:\Users\mrmus\ejercicios\loop_while_1\bin\Debug\net7.0\loop_while_1.runtimeconfig.json
+C:\Users\mrmus\ejercicios\loop_while_1\bin\Debug\net7.0\loop_while_1.dll
+C:\Users\mrmus\ejercicios\loop_while_1\bin\Debug\net7.0\loop_while_1.pdb
+C:\Users\mrmus\ejercicios\loop_while_1\obj\Debug\net7.0\loop_while_1.csproj.AssemblyReference.cache
+C:\Users\mrmus\ejercicios\loop_while_1\obj\Debug\net7.0\loop_while_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmus\ejercicios\loop_while_1\obj\Debug\net7.0\loop_while_1.AssemblyInfoInputs.cache
+C:\Users\mrmus\ejercicios\loop_while_1\obj\Debug\net7.0\loop_while_1.AssemblyInfo.cs
+C:\Users\mrmus\ejercicios\loop_while_1\obj\Debug\net7.0\loop_while_1.csproj.CoreCompileInputs.cache
+C:\Users\mrmus\ejercicios\loop_while_1\obj\Debug\net7.0\loop_while_1.dll
+C:\Users\mrmus\ejercicios\loop_while_1\obj\Debug\net7.0\refint\loop_while_1.dll
+C:\Users\mrmus\ejercicios\loop_while_1\obj\Debug\net7.0\loop_while_1.pdb
+C:\Users\mrmus\ejercicios\loop_while_1\obj\Debug\net7.0\loop_while_1.genruntimeconfig.cache
+C:\Users\mrmus\ejercicios\loop_while_1\obj\Debug\net7.0\ref\loop_while_1.dll
